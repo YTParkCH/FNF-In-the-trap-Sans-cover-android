@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="orangebones.png"><SubTexture name="blue0000" x="0" y="0" width="157" height="164" frameX="-1" frameY="-1" frameWidth="159" frameHeight="165" />
+<SubTexture name="purple0000" x="314" y="0" width="151" height="157" frameX="-1" frameY="-1" frameWidth="155" frameHeight="161" />
+<SubTexture name="red0000" x="0" y="164" width="151" height="157" frameX="-3" frameY="-1" frameWidth="155" frameHeight="161" />
+<SubTexture name="green0000" x="157" y="0" width="157" height="163" frameX="-1" frameY="-1" frameWidth="159" frameHeight="165" />
+</TextureAtlas>
