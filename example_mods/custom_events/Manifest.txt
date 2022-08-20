@@ -1,0 +1,8 @@
+Mechanics will randomly generated, 
+just insert a command.
+
+For default setting, insert 0 to Value 1.
+
+For random camGame Angle Mechanic, insert 1 into Value 1.
+For random Scroll Mechanic, insert 2 into Value 1.
+For random Scoll and camGame Mechanic, insert 3 into Value 1.

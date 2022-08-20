@@ -1,0 +1,9 @@
+Sets an image over the screen. 
+
+Value 1: Sound
+ex. "Testsound" "coolstuff/gunshot" 
+(Sounds located in the "Sounds" folder) 
+
+Value 2: Volume
+Ranges from 0 to 1.
+(Default: 1) 
